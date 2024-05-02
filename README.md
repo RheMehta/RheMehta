@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RheMehta
 - 👀 I’m interested in data science, math, coding, and analytics 
 - 🌱 I’m currently learning machine learning algorithyms and linear algebra 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   my BU email is rhemehta@bu.edu
   LinkedIn: www.linkedin.com/in/rheonamehta
