@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RheMehta
-- 👀 I’m interested in data science, math, coding, and analytics 
+- 👀 I’m interested in data science, analytics, and public implimentation/policy
 - 🌱 I’m currently looking for work/ experience in Data Analytics or any related feild 
 - 📫 How to reach me
   my BU email is rhemehta@bu.edu
